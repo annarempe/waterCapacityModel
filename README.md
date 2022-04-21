@@ -1,0 +1,1 @@
+This model was trained off of [Soil Sims](https://www.dropbox.com/sh/pxt5a36z08d5ax7/AABTsTK1tDQ1lzuufOuNeGAla?dl=0&preview=soil.sims.README.docx) data 
